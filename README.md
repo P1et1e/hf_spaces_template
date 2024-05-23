@@ -1,2 +1,9 @@
-# hf_spaces_template
-Template Repository for Gradio App Deployment to HF Spaces
+title: Demo Template + HF Oauth
+emoji: 🤖
+colorFrom: indigo
+colorTo: purple
+sdk: gradio
+sdk_version: 4.27.0
+hf_oauth: true
+hf_oauth_scopes:
+  - read-repos
